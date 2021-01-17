@@ -1,0 +1,26 @@
+{
+  "name": "course-match-b",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "cors": "^2.8.5",
+    "firebase": "^8.2.3",
+    "firebase-admin": "^9.4.2",
+    "multiparty": "^4.2.2",
+    "next": "10.0.5",
+    "nodemailer": "^6.4.17",
+    "pdf-parse": "^1.1.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-dropzone": "^11.2.4",
+    "react-rainbow-components": "^1.23.0",
+    "superagent": "^6.1.0",
+    "uuid": "^8.3.2"
+  }
+}
