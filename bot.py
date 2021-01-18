@@ -63,4 +63,4 @@ async def verify(ctx,number="noCode"):
         x = await ctx.message.channel.create_invite()
         print(x)
 
-client.run("ODAwMDc5MTI1MzIxNjEzMzcy.YAM5wA.cjunkBmHrb2PNuH6vdPdNnnpF2c")
+client.run("insertBotToken")
