@@ -25,7 +25,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-          A Hack The North Project
+          Dont Have a student email? watch the video <a href="http://coursematch.online">here</a>
       </footer>
     </div>
   )
