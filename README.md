@@ -5,7 +5,7 @@ Course Match is a secure online platform where students can join using their uni
 
 Leveraging the familiar environment of discord and the security of our verification system, course match gives students in each cohort a great platform to meet and mingle.
 
-Link: [CourseMatch](https://cousematch.online)
+Link: [CourseMatch](https://coursematch.online)
 
 ## Structure
 - `backend` contains the next.js app with API routes and react pages.
